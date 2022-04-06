@@ -1,2 +1,2 @@
 # Systeme-physique
-Conception et implémentation d'un pilote de barre franche
+Conception et implémentation d'un pilote de barre franche en VHDL
